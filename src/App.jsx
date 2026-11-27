@@ -94,7 +94,7 @@ function App() {
           </p>
 
           <a
-            href="http://localhost:5173/#home"
+            href="https://mellowmeet.com"
             className="lime-button"
           >
             Explore Mellow ↗
